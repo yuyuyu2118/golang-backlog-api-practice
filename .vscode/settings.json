@@ -1,0 +1,9 @@
+{
+    "genieai.promptPrefix.addTests": "このコードのテストを実装してください。",
+    "genieai.promptPrefix.explain": "下記のコードを解説してください。",
+    "genieai.promptPrefix.optimize": "下記のコードを最適化してください。",
+    "genieai.promptPrefix.findProblems": "下記のコードの問題点を見つけてください。",
+    "genieai.promptPrefix.addComments": "下記のコードにコメントを付けてください。",
+    "genieai.promptPrefix.completeCode": "下記のコードを完成させてください。",
+    "genieai.promptPrefix.commit-message": "feature/* - 新機能やアプリケーションにとっての価値ある変更を含むブランチ。\nbugfix/* - 既存の問題やバグを修正するためのブランチ。\nhotfix/* - 緊急性の高い問題を本番環境で修正するためのブランチ。\nrelease/* - 次のリリースに向けて最終的な準備を行うブランチ。\nrefactor/* - コードのリファクタリングや内部構造の改善を目指すブランチ。\nchore/* - プロジェクト管理のための更新やライブラリのアップデートなど、直接的な機能追加ではないが必要な作業のブランチ。\n\nこの接頭辞を使って以下の内容のcommitメッセージを50文字以内で作成してください\n日本語でお願いします。50文字以内です。\n以下は例です。\nchore/setup-env: 開発環境のセットアップ\nadd/add-get-relevant-documents: get_relevant_documentsを追加",
+}
